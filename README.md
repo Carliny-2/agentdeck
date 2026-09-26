@@ -8,7 +8,7 @@
 Claude Code y Codex a la vez, cada chat en su hueco, su estado de un vistazo y tu uso en tiempo real.</p>
 
 <p align="center">
-  <a href="https://github.com/Carliny-2/agentdeck/releases/latest"><b>⬇ Descargar para Windows</b></a>
+  <a href="https://github.com/Carliny-2/agentdeck/releases/latest/download/AgentDeck-Setup.exe"><b>⬇ Descargar para Windows</b></a>
   ·
   <a href="https://agentdeck-app.netlify.app">Web</a>
 </p>
@@ -17,7 +17,7 @@ Claude Code y Codex a la vez, cada chat en su hueco, su estado de un vistazo y t
 
 ## Instalar
 
-1. Descarga **`AgentDeck-Setup-x.y.z.exe`** de la [última versión](https://github.com/Carliny-2/agentdeck/releases/latest).
+1. Descarga **[`AgentDeck-Setup.exe`](https://github.com/Carliny-2/agentdeck/releases/latest/download/AgentDeck-Setup.exe)** (siempre la última versión).
 2. Ábrelo. Si Windows dice **«Windows protegió su PC»**, pulsa **Más información › Ejecutar de todas formas**
    (el instalador aún no está firmado; es normal en el acceso anticipado).
 3. AgentDeck se actualiza solo: cuando haya una versión nueva te lo dirá dentro de la app.
